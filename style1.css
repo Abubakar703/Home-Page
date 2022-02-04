@@ -1,0 +1,33 @@
+body{
+    background-color: aliceblue;
+    font-family: sans-serif; 
+    
+}
+
+h1{
+    text-align: center;
+    font-family: italic;
+    font-weight: bold;
+    
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    text-align: center; 
+}
+.myDiv{
+    border: 7px outset black;
+    background-color: lightgreen;
+}
+td{
+    padding: 15px; 
+}
+tr:nth-child(odd){
+           background-color: #8f9aa5;
+       }
+ol li{
+    list-style-type: decimal;
+}
